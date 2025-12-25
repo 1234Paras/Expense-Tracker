@@ -25,7 +25,7 @@ A responsive expense tracking web application built using React.js to manage inc
 
 
 ## ▶️ Live Demo
-(Add Netlify / Vercel link)
+https://expense-tracker-z.netlify.app
 
 ## 💻 Installation
 ```bash
